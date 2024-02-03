@@ -1,0 +1,3 @@
+[submodule "rplugin/python/matlab_nvim"]
+	path = rplugin/python/matlab_nvim
+	url = https://github.com/aryan-regmi/matlab_nvim
